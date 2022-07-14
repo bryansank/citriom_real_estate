@@ -1,0 +1,27 @@
+{
+  "name": "citriom_app",
+  "version": "0.0.1",
+  "description": "app for real state in citriom",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "deploy": "now",
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "citriom",
+    "next",
+    "react"
+  ],
+  "author": "Bryan Key <<bryansan055@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
